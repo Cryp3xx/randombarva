@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    transition: background-color 0.5s;
+}
+#favoriteColors {
+    margin-top: 20px;
+}
+.colorSample {
+    display: inline-block;
+    width: 100px;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
